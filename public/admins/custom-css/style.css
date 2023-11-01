@@ -1,0 +1,49 @@
+/* Sidebar */
+.sidebar-dark-primary{
+    background-color: #fff !important;
+}
+.brand-link{
+    background-color: #f4f6f9 !important;
+    border-bottom: #d2d8dd !important;
+}
+.brand-link .brand-text{
+    color: green;
+    font-weight: 500 !important;
+}
+.mt-2 .nav-sidebar .nav-item .nav-link{
+    font-size: 0.875rem !important;
+    color: black;
+}
+.mt-2 .nav-sidebar .nav-item .nav-link:hover{
+    background-color: rgba(0,0,0,.1) !important;
+    color: black !important;
+}
+.mt-2 .nav-sidebar .nav-item .active{
+    background-color: #007bff  !important; 
+    /* đây */
+    color: #fff !important;
+}
+.mt-2 .nav-sidebar .nav-item .nav-treeview .active{
+    background-color: rgba(0,0,0,.1) !important;
+    color: black !important;
+}
+.menu-is-opening .nav-link{
+    color: black !important;
+    background-color: rgba(0,0,0,.1);
+}
+.menu-is-opening .nav-link{
+    background-color: rgba(0,0,0,.1) !important;
+}
+.nav-item .nav-treeview .nav-item .nav-link{
+    background-color: #fff !important;
+}
+.nav-item .nav-link{
+    color: black !important;
+}
+.info .info-name{
+    color:  #097687 !important;
+    font-weight: 600;
+}
+.info .info-name:hover{
+    opacity: 0.6;
+}
